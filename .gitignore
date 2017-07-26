@@ -1,3 +1,7 @@
+# KMAD added
+*rev* #programs created while revising stuff
+*.sw[po]*
+
 # Binaries for programs and plugins
 *.exe
 *.dll
