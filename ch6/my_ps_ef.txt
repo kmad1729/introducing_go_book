@@ -1,0 +1,226 @@
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 09:01 ?        00:00:01 /sbin/init splash
+root         2     0  0 09:01 ?        00:00:00 [kthreadd]
+root         4     2  0 09:01 ?        00:00:00 [kworker/0:0H]
+root         6     2  0 09:01 ?        00:00:00 [ksoftirqd/0]
+root         7     2  0 09:01 ?        00:00:02 [rcu_sched]
+root         8     2  0 09:01 ?        00:00:00 [rcu_bh]
+root         9     2  0 09:01 ?        00:00:00 [migration/0]
+root        10     2  0 09:01 ?        00:00:00 [lru-add-drain]
+root        11     2  0 09:01 ?        00:00:00 [watchdog/0]
+root        12     2  0 09:01 ?        00:00:00 [cpuhp/0]
+root        13     2  0 09:01 ?        00:00:00 [cpuhp/1]
+root        14     2  0 09:01 ?        00:00:00 [watchdog/1]
+root        15     2  0 09:01 ?        00:00:00 [migration/1]
+root        16     2  0 09:01 ?        00:00:00 [ksoftirqd/1]
+root        18     2  0 09:01 ?        00:00:00 [kworker/1:0H]
+root        19     2  0 09:01 ?        00:00:00 [cpuhp/2]
+root        20     2  0 09:01 ?        00:00:00 [watchdog/2]
+root        21     2  0 09:01 ?        00:00:00 [migration/2]
+root        22     2  0 09:01 ?        00:00:00 [ksoftirqd/2]
+root        24     2  0 09:01 ?        00:00:00 [kworker/2:0H]
+root        25     2  0 09:01 ?        00:00:00 [cpuhp/3]
+root        26     2  0 09:01 ?        00:00:00 [watchdog/3]
+root        27     2  0 09:01 ?        00:00:00 [migration/3]
+root        28     2  0 09:01 ?        00:00:00 [ksoftirqd/3]
+root        30     2  0 09:01 ?        00:00:00 [kworker/3:0H]
+root        31     2  0 09:01 ?        00:00:00 [kdevtmpfs]
+root        32     2  0 09:01 ?        00:00:00 [netns]
+root        33     2  0 09:01 ?        00:00:00 [khungtaskd]
+root        34     2  0 09:01 ?        00:00:00 [oom_reaper]
+root        35     2  0 09:01 ?        00:00:00 [writeback]
+root        36     2  0 09:01 ?        00:00:00 [kcompactd0]
+root        37     2  0 09:01 ?        00:00:00 [ksmd]
+root        38     2  0 09:01 ?        00:00:00 [khugepaged]
+root        39     2  0 09:01 ?        00:00:00 [crypto]
+root        40     2  0 09:01 ?        00:00:00 [kintegrityd]
+root        41     2  0 09:01 ?        00:00:00 [bioset]
+root        42     2  0 09:01 ?        00:00:00 [kblockd]
+root        43     2  0 09:01 ?        00:00:00 [ata_sff]
+root        44     2  0 09:01 ?        00:00:00 [md]
+root        45     2  0 09:01 ?        00:00:00 [devfreq_wq]
+root        46     2  0 09:01 ?        00:00:00 [watchdogd]
+root        50     2  0 09:01 ?        00:00:00 [kauditd]
+root        51     2  0 09:01 ?        00:00:00 [kswapd0]
+root        52     2  0 09:01 ?        00:00:00 [vmstat]
+root        53     2  0 09:01 ?        00:00:00 [bioset]
+root        54     2  0 09:01 ?        00:00:00 [ecryptfs-kthrea]
+root        97     2  0 09:01 ?        00:00:00 [kthrotld]
+root        98     2  0 09:01 ?        00:00:00 [acpi_thermal_pm]
+root        99     2  0 09:01 ?        00:00:00 [bioset]
+root       100     2  0 09:01 ?        00:00:00 [bioset]
+root       101     2  0 09:01 ?        00:00:00 [bioset]
+root       102     2  0 09:01 ?        00:00:00 [bioset]
+root       103     2  0 09:01 ?        00:00:00 [bioset]
+root       104     2  0 09:01 ?        00:00:00 [bioset]
+root       105     2  0 09:01 ?        00:00:00 [bioset]
+root       106     2  0 09:01 ?        00:00:00 [bioset]
+root       107     2  0 09:01 ?        00:00:00 [scsi_eh_0]
+root       108     2  0 09:01 ?        00:00:00 [scsi_tmf_0]
+root       109     2  0 09:01 ?        00:00:00 [scsi_eh_1]
+root       110     2  0 09:01 ?        00:00:00 [scsi_tmf_1]
+root       117     2  0 09:01 ?        00:00:00 [ipv6_addrconf]
+root       138     2  0 09:01 ?        00:00:00 [charger_manager]
+root       139     2  0 09:01 ?        00:00:00 [bioset]
+root       183     2  0 09:01 ?        00:00:00 [scsi_eh_2]
+root       184     2  0 09:01 ?        00:00:00 [scsi_tmf_2]
+root       192     2  0 09:01 ?        00:00:00 [kworker/1:1H]
+root       193     2  0 09:01 ?        00:00:00 [bioset]
+root       195     2  0 09:01 ?        00:00:00 [kworker/3:1H]
+root       196     2  0 09:01 ?        00:00:00 [kworker/2:1H]
+root       197     2  0 09:01 ?        00:00:00 [kworker/0:1H]
+root       224     2  0 09:01 ?        00:00:00 [jbd2/sda1-8]
+root       225     2  0 09:01 ?        00:00:00 [ext4-rsv-conver]
+root       257     1  0 09:01 ?        00:00:00 /lib/systemd/systemd-journald
+root       261     2  0 09:01 ?        00:00:01 [kworker/1:2]
+root       273     1  0 09:01 ?        00:00:00 /lib/systemd/systemd-udevd
+root       368     2  0 09:01 ?        00:00:00 [iprt-VBoxWQueue]
+root       401     2  0 09:01 ?        00:00:00 [ttm_swap]
+root       736     1  0 09:01 ?        00:00:00 /bin/sh /usr/lib/systemd/pwpolicy start
+root       739     1  0 09:01 ?        00:00:00 /usr/lib/accountsservice/accounts-daemon
+root       757     1  0 09:01 ?        00:00:00 /usr/sbin/acpid
+message+   760     1  0 09:01 ?        00:00:03 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+root       804     1  0 09:01 ?        00:00:00 /lib/systemd/systemd-logind
+root       809     1  0 09:01 ?        00:00:00 /usr/sbin/ModemManager
+avahi      813     1  0 09:01 ?        00:00:00 avahi-daemon: running [kmaduri-VirtualBox.local]
+root       815     1  0 09:01 ?        00:00:00 /usr/sbin/cron -f
+whoopsie   816     1  0 09:01 ?        00:00:00 /usr/bin/whoopsie -f
+syslog     818     1  0 09:01 ?        00:00:00 /usr/sbin/rsyslogd -n
+root       819     1  0 09:01 ?        00:00:00 /usr/sbin/NetworkManager --no-daemon
+root       822     1  0 09:01 ?        00:00:01 /usr/lib/snapd/snapd
+avahi      846   813  0 09:01 ?        00:00:00 avahi-daemon: chroot helper
+root       847     1  0 09:01 ?        00:00:00 /usr/sbin/cups-browsed
+root       853     1  0 09:01 ?        00:00:00 /usr/lib/policykit-1/polkitd --no-debug
+root       857     1  0 09:01 ?        00:00:00 /usr/sbin/lightdm
+root       991     1  0 09:01 ?        00:00:04 /usr/sbin/VBoxService --pidfile /var/run/vboxadd-service.sh
+nobody    1000   819  0 09:01 ?        00:00:00 /usr/sbin/dnsmasq --no-resolv --keep-in-foreground --no-hosts --bind-interfaces --pid-file=/var/run/NetworkManager/dnsmasq.pid --listen-address=127.0.1.1 --cache-size=0 --conf-file=/dev/null --proxy-dnssec --enable-dbus=org.freedesktop.NetworkManager.dnsmasq --conf-dir=/etc/NetworkManager/dnsmasq.d
+root      1140     1  0 09:01 ?        00:00:00 /usr/sbin/irqbalance --pid=/var/run/irqbalance.pid
+root      1161   857  1 09:01 tty7     00:05:07 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root      1214   857  0 09:01 ?        00:00:00 lightdm --session-child 12 15
+kmaduri   1219     1  0 09:01 ?        00:00:00 /lib/systemd/systemd --user
+kmaduri   1220  1219  0 09:01 ?        00:00:00 (sd-pam)
+kmaduri   1223  1214  0 09:01 ?        00:00:00 /sbin/upstart --user
+kmaduri   1236     1  0 09:01 ?        00:00:00 /usr/bin/VBoxClient --clipboard
+kmaduri   1237  1236  0 09:01 ?        00:00:00 /usr/bin/VBoxClient --clipboard
+kmaduri   1246     1  0 09:01 ?        00:00:00 /usr/bin/VBoxClient --display
+kmaduri   1248  1246  0 09:01 ?        00:00:00 /usr/bin/VBoxClient --display
+kmaduri   1251     1  0 09:01 ?        00:00:00 /usr/bin/VBoxClient --seamless
+kmaduri   1252  1251  0 09:01 ?        00:00:00 /usr/bin/VBoxClient --seamless
+kmaduri   1256     1  0 09:01 ?        00:00:00 /usr/bin/VBoxClient --draganddrop
+kmaduri   1257  1256  0 09:01 ?        00:00:29 /usr/bin/VBoxClient --draganddrop
+kmaduri   1372  1223  0 09:01 ?        00:00:00 upstart-udev-bridge --daemon --user
+kmaduri   1374  1223  0 09:01 ?        00:00:01 dbus-daemon --fork --session --address=unix:abstract=/tmp/dbus-H9nbybfUyy
+kmaduri   1386  1223  0 09:01 ?        00:00:00 /usr/lib/x86_64-linux-gnu/hud/window-stack-bridge
+kmaduri   1409  1223  0 09:01 ?        00:00:00 gnome-keyring-daemon --start --components pkcs11,secrets
+kmaduri   1420  1223  0 09:01 ?        00:00:00 upstart-dbus-bridge --daemon --session --user --bus-name session
+kmaduri   1424  1223  0 09:01 ?        00:00:00 upstart-dbus-bridge --daemon --system --user --bus-name system
+kmaduri   1426  1223  0 09:01 ?        00:00:00 upstart-file-bridge --daemon --user
+kmaduri   1430  1223  0 09:01 ?        00:00:26 /usr/bin/ibus-daemon --daemonize --xim --address unix:tmpdir=/tmp/ibus
+kmaduri   1440  1223  0 09:01 ?        00:00:00 /usr/lib/gvfs/gvfsd
+kmaduri   1448  1223  0 09:01 ?        00:00:14 /usr/lib/x86_64-linux-gnu/bamf/bamfdaemon
+kmaduri   1453  1223  0 09:01 ?        00:00:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+kmaduri   1458  1430  0 09:01 ?        00:00:00 /usr/lib/ibus/ibus-dconf
+kmaduri   1464  1430  0 09:01 ?        00:00:08 /usr/lib/ibus/ibus-ui-gtk3
+kmaduri   1472  1223  0 09:01 ?        00:00:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+kmaduri   1478  1223  0 09:01 ?        00:00:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+kmaduri   1491  1478  0 09:01 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+kmaduri   1493  1223  0 09:01 ?        00:00:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+kmaduri   1497  1223  0 09:01 ?        00:00:00 gpg-agent --homedir /home/kmaduri/.gnupg --use-standard-socket --daemon
+kmaduri   1547  1223  0 09:01 ?        00:00:03 /usr/lib/x86_64-linux-gnu/hud/hud-service
+kmaduri   1549  1223  0 09:01 ?        00:00:04 /usr/lib/unity-settings-daemon/unity-settings-daemon
+kmaduri   1566  1223  0 09:01 ?        00:00:00 /usr/lib/gnome-session/gnome-session-binary --session=ubuntu
+kmaduri   1572  1223  0 09:01 ?        00:00:05 /usr/lib/x86_64-linux-gnu/unity/unity-panel-service
+kmaduri   1639  1223  0 09:01 ?        00:00:00 /usr/lib/dconf/dconf-service
+root      1669     1  0 09:01 ?        00:00:00 /usr/lib/upower/upowerd
+root      1683     1  0 09:01 tty1     00:00:00 /sbin/agetty --noclear tty1 linux
+root      1697     2  0 09:01 ?        00:00:00 [iprt-VBoxWQueue]
+root      1706     2  0 09:01 ?        00:00:00 [iprt-VBoxTscThr]
+kmaduri   1718  1223  1 09:01 ?        00:08:16 compiz
+kmaduri   1730  1223  0 09:01 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+kmaduri   1731  1223  0 09:01 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+kmaduri   1732  1223  0 09:01 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-power/indicator-power-service
+kmaduri   1733  1223  0 09:01 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-datetime/indicator-datetime-service
+kmaduri   1740  1223  0 09:01 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-keyboard/indicator-keyboard-service --use-gtk
+kmaduri   1741  1223  0 09:01 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+kmaduri   1742  1223  0 09:01 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-printers/indicator-printers-service
+kmaduri   1743  1223  0 09:01 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-session/indicator-session-service
+kmaduri   1746  1223  0 09:01 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service
+root      1786     1  0 09:01 ?        00:00:00 /opt/cisco/anyconnect/bin/vpnagentd
+kmaduri   1825  1223  0 09:01 ?        00:00:00 /usr/lib/evolution/evolution-source-registry
+kmaduri   1861  1223  0 09:01 ?        00:00:00 /usr/bin/pulseaudio --start --log-target=syslog
+rtkit     1862     1  0 09:01 ?        00:00:00 /usr/lib/rtkit/rtkit-daemon
+kmaduri   1869  1223  0 09:01 ?        00:00:00 /usr/lib/evolution/evolution-calendar-factory
+kmaduri   1901  1566  0 09:01 ?        00:00:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+kmaduri   1905  1566  0 09:01 ?        00:00:00 /usr/lib/unity-settings-daemon/unity-fallback-mount-helper
+kmaduri   1906  1566  0 09:01 ?        00:00:03 nm-applet
+root      1929  1786  0 09:01 ?        00:00:03 /opt/cisco/anyconnect/bin/acnvmagent -console
+kmaduri   1932  1566  0 09:01 ?        00:00:17 nautilus -n
+kmaduri   1936  1566  0 09:01 ?        00:00:05 /usr/bin/gnome-software --gapplication-service
+kmaduri   1958  1223  0 09:01 ?        00:00:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+root      1971     1  0 09:01 ?        00:00:00 /usr/lib/udisks2/udisksd --no-debug
+kmaduri   2033  1869  0 09:01 ?        00:00:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory contacts --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx1869x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/1869/2
+kmaduri   2035  1223  0 09:01 ?        00:00:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+kmaduri   2038  1430  0 09:01 ?        00:00:08 /usr/lib/ibus/ibus-engine-simple
+kmaduri   2044  1223  0 09:01 ?        00:00:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+root      2046     1  0 09:01 ?        00:00:00 /usr/lib/x86_64-linux-gnu/fwupd/fwupd
+kmaduri   2054  1223  0 09:01 ?        00:00:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+kmaduri   2061  1223  0 09:01 ?        00:00:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+kmaduri   2071  1223  0 09:01 ?        00:00:00 /usr/lib/evolution/evolution-addressbook-factory
+kmaduri   2073  1869  0 09:01 ?        00:00:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx1869x3 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/1869/3
+kmaduri   2081  2071  0 09:01 ?        00:00:00 /usr/lib/evolution/evolution-addressbook-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx2071x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/2071/2
+colord    2112     1  0 09:01 ?        00:00:00 /usr/lib/colord/colord
+kmaduri   2179  1223  0 09:01 ?        00:00:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.6 /org/gtk/gvfs/exec_spaw/0
+kmaduri   2188  1223  0 09:01 ?        00:00:00 /usr/lib/gvfs/gvfsd-metadata
+kmaduri   2219  1566  0 09:01 ?        00:00:00 zeitgeist-datahub
+kmaduri   2226  1223  0 09:01 ?        00:00:00 /bin/sh -c /usr/lib/x86_64-linux-gnu/zeitgeist/zeitgeist-maybe-vacuum; /usr/bin/zeitgeist-daemon
+kmaduri   2230  2226  0 09:01 ?        00:00:00 /usr/bin/zeitgeist-daemon
+kmaduri   2237  1223  0 09:01 ?        00:00:00 /usr/lib/x86_64-linux-gnu/zeitgeist-fts
+kmaduri   2262     1  0 09:02 ?        00:00:00 dbus-launch --autolaunch db478cc33da5462186cd243c8511a617 --binary-syntax --close-stderr
+kmaduri   2263     1  0 09:02 ?        00:00:00 /usr/bin/dbus-daemon --fork --print-pid 5 --print-address 7 --session
+kmaduri   2265     1  0 09:02 ?        00:00:02 /usr/lib/x86_64-linux-gnu/notify-osd
+kmaduri   2269     1  0 09:02 ?        00:00:00 /usr/lib/gvfs/gvfsd
+kmaduri   2279     1  0 09:02 ?        00:00:00 /usr/bin/gnome-screensaver --no-daemon
+kmaduri   2333  1223  0 09:02 ?        00:01:20 /usr/bin/python /usr/bin/x-terminal-emulator
+kmaduri   2343  1223  0 09:02 ?        00:00:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+kmaduri   2354  2333  0 09:02 ?        00:00:00 gnome-pty-helper
+kmaduri   2355  2333  0 09:02 pts/1    00:00:00 /bin/bash
+kmaduri   2398  1566  0 09:02 ?        00:00:02 update-notifier
+kmaduri   2579  1223  0 09:03 ?        00:00:03 /usr/lib/x86_64-linux-gnu/notify-osd
+kmaduri   2701  1566  0 09:03 ?        00:00:00 /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+root      3424     2  0 09:16 ?        00:00:00 [kworker/2:2]
+kmaduri   4004  1223  0 09:26 ?        00:00:00 /usr/lib/x86_64-linux-gnu/unity-scope-home/unity-scope-home
+kmaduri   4015  1223  0 09:26 ?        00:00:00 /usr/bin/unity-scope-loader applications/applications.scope applications/scopes.scope commands.scope
+kmaduri   4017  1223  0 09:26 ?        00:00:00 /usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+root      5622     2  0 09:46 ?        00:00:00 [kworker/0:0]
+root     11888     2  0 11:32 ?        00:00:00 [kworker/3:0]
+kmaduri  22171  2333  0 14:20 pts/17   00:00:00 /bin/bash
+root     22667     2  0 14:29 ?        00:00:00 [kworker/3:1]
+root     26154   819  0 15:27 ?        00:00:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /var/run/dhclient-enp0s3.pid -lf /var/lib/NetworkManager/dhclient-911eb115-7744-3323-8109-224ab235d1ad-enp0s3.lease -cf /var/lib/NetworkManager/dhclient-enp0s3.conf enp0s3
+kmaduri  26468  1223  1 15:28 ?        00:00:26 /opt/google/chrome/chrome
+kmaduri  26475 26468  0 15:28 ?        00:00:00 cat
+kmaduri  26476 26468  0 15:28 ?        00:00:00 cat
+kmaduri  26479 26468  0 15:28 ?        00:00:00 /opt/google/chrome/chrome --type=zygote --enable-crash-reporter=d7f83f03-9020-46e3-a337-458720621603,
+kmaduri  26480 26479  0 15:28 ?        00:00:00 /opt/google/chrome/nacl_helper
+kmaduri  26483 26479  0 15:28 ?        00:00:00 /opt/google/chrome/chrome --type=zygote --enable-crash-reporter=d7f83f03-9020-46e3-a337-458720621603,
+kmaduri  26572 26483  0 15:28 ?        00:00:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=1 --primordial-pipe-token=92D681095095CCBFF0EFAE3B9567E4B3 --lang=en-US --enable-crash-reporter=d7f83f03-9020-46e3-a337-458720621603, --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=false --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553 --disable-accelerated-video-decode --disable-webrtc-hw-vp8-encoding --disable-gpu-compositing --service-request-channel-token=92D681095095CCBFF0EFAE3B9567E4B3 --renderer-client-id=3 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+kmaduri  26575 26483  0 15:28 ?        00:00:08 /opt/google/chrome/chrome --type=renderer --field-trial-handle=1 --primordial-pipe-token=54E52B533DFD1902AF6F17AFF83A2424 --lang=en-US --enable-crash-reporter=d7f83f03-9020-46e3-a337-458720621603, --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=false --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553 --disable-accelerated-video-decode --disable-webrtc-hw-vp8-encoding --disable-gpu-compositing --service-request-channel-token=54E52B533DFD1902AF6F17AFF83A2424 --renderer-client-id=4 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+kmaduri  26596 26483  0 15:28 ?        00:00:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=1 --primordial-pipe-token=E60E94FA045D886CD09A590A4FE6DEDF --lang=en-US --enable-crash-reporter=d7f83f03-9020-46e3-a337-458720621603, --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=false --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553 --disable-accelerated-video-decode --disable-webrtc-hw-vp8-encoding --disable-gpu-compositing --service-request-channel-token=E60E94FA045D886CD09A590A4FE6DEDF --renderer-client-id=5 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+kmaduri  26606 26483  0 15:28 ?        00:00:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=1 --primordial-pipe-token=3926AF9E75353C03B0AEB6F972D8031D --lang=en-US --enable-crash-reporter=d7f83f03-9020-46e3-a337-458720621603, --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=false --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553 --disable-accelerated-video-decode --disable-webrtc-hw-vp8-encoding --disable-gpu-compositing --service-request-channel-token=3926AF9E75353C03B0AEB6F972D8031D --renderer-client-id=6 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+kmaduri  26614 26483  0 15:28 ?        00:00:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=1 --primordial-pipe-token=8C7118608B7BD0271D4BB8399421F7FB --lang=en-US --enable-crash-reporter=d7f83f03-9020-46e3-a337-458720621603, --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=false --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553 --disable-accelerated-video-decode --disable-webrtc-hw-vp8-encoding --disable-gpu-compositing --service-request-channel-token=8C7118608B7BD0271D4BB8399421F7FB --renderer-client-id=7 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+kmaduri  26647 26468  0 15:28 ?        00:00:00 /opt/google/chrome/chrome --type=gpu-process --field-trial-handle=1 --enable-crash-reporter=d7f83f03-9020-46e3-a337-458720621603, --use-gl=swiftshader-webgl --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,24,30,76 --disable-gl-extensions=GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent --disable-webrtc-hw-encoding --gpu-vendor-id=0x80ee --gpu-device-id=0xbeef --gpu-driver-vendor=Google Inc. --gpu-driver-version=3.3.0.2 --gpu-driver-date=2017/04/07 --enable-crash-reporter=d7f83f03-9020-46e3-a337-458720621603, --service-request-channel-token=54D71750BB7F67C8A5ABA239063516ED
+kmaduri  26649 26647  0 15:28 ?        00:00:00 /opt/google/chrome/chrome --type=gpu-broker
+kmaduri  26654 26480  0 15:28 ?        00:00:00 /opt/google/chrome/nacl_helper
+root     26728     2  0 15:29 ?        00:00:00 [kworker/0:1]
+kmaduri  26740  2355  0 15:29 pts/1    00:00:00 tmux
+kmaduri  26742  1223  0 15:29 ?        00:00:01 tmux
+kmaduri  26743 26742  0 15:29 pts/18   00:00:00 -bash
+root     27267     2  0 15:33 ?        00:00:00 [kworker/2:0]
+root     27286     2  0 15:34 ?        00:00:00 [kworker/u8:1]
+kmaduri  27287 26742  0 15:34 pts/19   00:00:00 -bash
+kmaduri  27994 26483  1 15:40 ?        00:00:11 /opt/google/chrome/chrome --type=renderer --field-trial-handle=1 --primordial-pipe-token=A6D24E7AB723B4BC25A0B56EC26AB967 --lang=en-US --enable-crash-reporter=d7f83f03-9020-46e3-a337-458720621603, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=false --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553 --disable-accelerated-video-decode --disable-webrtc-hw-vp8-encoding --disable-gpu-compositing --service-request-channel-token=A6D24E7AB723B4BC25A0B56EC26AB967 --renderer-client-id=34 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+root     28052     2  0 15:40 ?        00:00:00 [kworker/1:1]
+root     28714     2  0 15:50 ?        00:00:00 [kworker/u8:2]
+kmaduri  29165 26743  0 15:53 pts/18   00:00:00 vi day2_defer.go
+root     29484   736  0 15:56 ?        00:00:00 sleep 20
+root     29515     2  0 15:56 ?        00:00:00 [kworker/u8:0]
+kmaduri  29516 27287  0 15:57 pts/19   00:00:00 ps -ef
